@@ -23,7 +23,7 @@
     "chroma-js": "^2.1.2",
     "comfy.js": "^1.1.6",
     "fast-mersenne-twister": "^1.0.3",
-    "obs-websocket-js": "^4.0.2",
+    "obs-websocket-js": "^5.0.0",
     "paper": "^0.12.12",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
